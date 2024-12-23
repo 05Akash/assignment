@@ -37,9 +37,9 @@ This project is a **Quotation Management System** built using **Vite.js** (React
 
 Here are some screenshots of the application:
 
-1. ![Screenshot 1](file:///C:/Users/harsh/Downloads/internAssignment/screenshots/Screenshot%202024-12-23%20205455.png)
-2. ![Screenshot 2](file:///C:/Users/harsh/Downloads/internAssignment/screenshots/Screenshot%202024-12-23%2020504.png)
-3. ![Screenshot 3](file:///C:/Users/harsh/Downloads/internAssignment/screenshots/Screenshot%202024-12-23%20205646.png)
-4. ![Screenshot 4](file:///C:/Users/harsh/Downloads/internAssignment/screenshots/Screenshot%202024-12-23%20205655.png)
-5. ![Screenshot 5](file:///C:/Users/harsh/Downloads/internAssignment/screenshots/Screenshot%202024-12-23%20205707.png)
+1. ![Screenshot 1](screenshots/Screenshot%2024-12-23%205455.png)
+2. ![Screenshot 2](screenshots/Screenshot%202024-12-23%2020504.png)
+3. ![Screenshot 3](screenshots/Screenshot%202024-12-23%20205646.png)
+4. ![Screenshot 4](screenshots/Screenshot%202024-12-23%20205655.png)
+5. ![Screenshot 5](screenshots/Screenshot%202024-12-23%20205707.png)
 
